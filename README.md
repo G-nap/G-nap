@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **chotika.tra@gmail.com**
 
-- 👾 <a href="https://preeminent-croissant-74fca7.netlify.app/"> My portfolio site </a>
+- 👾 <a href="https://preeminent-croissant-74fca7.netlify.app/"> My portfolio site </a> 👩🏻‍💻
