@@ -7,3 +7,5 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **chotika.tra@gmail.com**
+
+- 👾 <a src="https://preeminent-croissant-74fca7.netlify.app/"> My portfolio sitee </a>
